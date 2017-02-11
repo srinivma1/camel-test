@@ -41,7 +41,7 @@
         <init-param>
             <description>set MockService endpoint used in generated WSDLs and schemas</description>
             <param-name>mockServiceEndpoint</param-name>
-            <param-value>http://soapui-mahesh-srinivas.89d9.dev-inmarsat.openshiftapps.com</param-value>
+            <param-value>http://soapui-mahesh-srinivas.89d9.dev-inmarsat.openshiftapps.com/webapp</param-value>
         </init-param>
     </servlet>
     <servlet-mapping>
